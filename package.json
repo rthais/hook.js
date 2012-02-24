@@ -29,7 +29,7 @@
   "dependencies": {
     "hook.io": "0.7.x",
     "hook.io-feed": "*",
-    "hook.io-webserver": "git://github.com/hookio/webserver.git",
+    "hook.io-webserver": "git://github.com/hookio/webserver.git#d3e58bd7debc",
     "hook.io-webhook": "*",
     "dnode": "0.6.x",
     "node-static": "0.5.x"
